@@ -1,0 +1,14 @@
+.header-text{
+    text-align: center;
+    color: #E3004E;
+    font-weight: 700;
+}
+.home{
+    display: justify-content;
+}
+footer{
+    margin-top: 20px;
+}
+.allPosts{
+    width: 100%;
+}

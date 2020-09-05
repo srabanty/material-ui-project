@@ -1,0 +1,13 @@
+.aligning-items{
+    float: left;
+    width: 40%;
+
+}
+.single-post{
+    background-color: white;
+    box-shadow: 0px 0px 20px lightgray;
+    padding-top: 20px;
+}
+p {
+    padding-right: 20px;
+}
